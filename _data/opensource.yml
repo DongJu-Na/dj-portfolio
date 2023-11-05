@@ -1,0 +1,25 @@
+- layout: left
+  name: 개인 블로그
+  link: https://djlife.tistory.com/
+  quote: >
+    개인 기술 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 비정기적으로 제가 새롭게 배우게 되는 내용 또는 잘못 알고 있는 내용을 정리하여 공유합니다.
+
+- layout: left
+  name: Nadry
+  link: https://github.com/DongJu-Na/Nadry
+  quote: >
+    한국관광공사 x 카카오 2023 관광데이터 활용 공모전 장려상
+  description: | # this will include new lines to allow paragraphs
+    * 하나의 서비스를 기획하고 개발해보는게 목표였는데 좋은 기회가 생겨 도전하게 된 프로젝트
+
+- layout: left
+  name: scouter
+  link: https://github.com/DongJu-Na/scouter-frontend
+  quote: >
+    이 프로젝트를 통해 이루고자 한 목표는 BE개발자이지만 FE 개발자들과 보다 더 원활한 커뮤니케이션을 위해 FE 작업을 맡아 프로젝트를 진행하였습니다
+  description: | # this will include new lines to allow paragraphs
+    * 전 직장 동료와 함께 만들어본 롤 전적 검색 사이트 토이 프로젝트입니다. 
+    * 사내에서 react를 이용하여 개발 할 일이 있었는데 당시 프론트엔드 개발자가 채용 되지 않아 제가 리드하면서 진행해야 되는 상황이여서, 공부할 겸 전 직장 동료와 함께 사이드 프로젝트를 진행하게 되었습니다.
+

@@ -1,0 +1,50 @@
+- layout: left
+  company: 인라이플
+  link: https://www.enliple.com/
+  job_title: Java & Spring 백엔드 개발자
+  dates: 2022.12 ~ 현재
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    * 경쟁 업체 P사 난독화 스크립트 분석하여 어뷰징 행위 감지
+    * 캠페인 및 이벤트 연결된 소재 고정화 배너 광고 송출
+    * 미노출 광고 시 고정화 배너 유효성 확인 로직 추가
+    * 광고 소재 GPT를 통한 카피라이트 자동 생성 기술 검토 및 데모 프로그램 개발 (운영서비스 도입)
+    * 배너배리에이션 - 소재 등록 시 다양한 소재 자동 생성 신규 기능 추가
+    * 동영상 배너 광고 - ffmpeg를 통한 업로드 된 동영상 압축(인코딩) 신규 기능 추가
+    * 대규모 트래픽, 데이터 환경에서의 API 개발
+    * Tech Stack : Java,Spring boot,Jpa,Maria,Jenkins,Gitlab
+- layout: left
+  company: 주식회사 삼인칭
+  link: http://siccorp.co.kr/
+  job_title: Java & Spring 백엔드 개발자
+  dates: 2022.08 ~ 2022.10
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+     * PHP 코드이그나이터 프레임워크 프로젝트 - 유지보수 업무
+     * React 냠냠박스 POS 프로젝트 - 프론트엔드 업무(React) , 백엔드(Java) 업무
+     * 프론트엔드 리드
+     * Tech Stack : Java,React,Php,Jenkins,Gitlab
+- layout: left
+  company: 유서브
+  link: http://www.userve.co.kr/
+  job_title: Java & Spring 백엔드 개발자
+  dates: 2019.06 ~ 2022.06
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+     * 신입사원 OJT 운영 및 관리 직무 수행
+     * 프로젝트 자동 CI/CD 환경 구성
+     * 스마트골프 시스템 구축 LG devon -> Spring boot 마이그레이션 및 공통 개발 환경 구성
+     * SMS&알림톡 공통 모듈 개발
+      * Tech Stack : Java,Spring boot,Oracle,Mysql,Javascript,jsp
+- layout: left
+  company: EITS
+  job_title: 웹 개발자
+  dates: 2018.05 ~ 2018.12
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+     * DMS 운영 및 유지보수 , cs 응대
+     * Tech Stack : miplatform,Oracle,jsp

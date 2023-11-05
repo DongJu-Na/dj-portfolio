@@ -1,0 +1,69 @@
+# Site
+repository: dongju-na.github.io/dj-photofolio
+favicon: images/favicon.ico
+
+# Personal info
+name: 나동주
+title: 서버 백엔드 엔지니어
+email: ehdeld123@gmail.com
+website: https://djlife.tistory.com
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  dongju-na
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
+
+# Additional icon links
+additional_links:
+- title: 기술 블로그
+  icon: fab fa-blogger-b
+  url: https://djlife.tistory.com
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  안녕하세요. Java & Spring 기반의 5년차 서버 백엔드 개발자로 주로 웹 서비스를 개발을 담당했으며 필요에 따라 <b>PL(Project Leader)</b> 역할을 겸하였습니다.<br/>
+  반복적인 업무를 <b>자동화</b>하는데 관심이 많고, 조금 더 나중에는 어딘가의 기술 조직 리더라는 목표를 가지고 다양한 기술을 학습하거나 사용하고 경험을 쌓고 있습니다.<br/>
+  함께 고민하고 일하는 것을 좋아하며, 일을 마무리 하는 것에 있어서 뿌듯함을 느낍니다.<br/>
+  주도적으로 업무를 진행할 수 있는 환경을 선호합니다.
+
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+   - [한국관광공사 x 카카오 2023 관광데이터 활용 공모전 - 나드리(장려상)](https://github.com/DongJu-Na/Nadry)
+   - [롤 전적 통계 사이트 - 스카우터](https://github.com/DongJu-Na/scouter-frontend)
+  
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

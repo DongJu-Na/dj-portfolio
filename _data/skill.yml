@@ -1,0 +1,27 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * Java, NodeJS
+    * Spring Boot, Spring MVC,Spring Security, Spring Data JPA/Redis, Spring Cloud
+    * JPA, Querydsl, Hibernate
+    * Mockito
+    * Gradle, Maven
+    * IntelliJ, STS, Visual Studio Code
+- layout: left
+  name: DevOps
+  description: | # this will include new lines to allow paragraphs
+    * Oracle, MySQL, MariaDB
+    * Jenkins
+    * Nginx, Tomcat
+    * Linux Centos
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+    * react , vue.js , javascript
+    * Npm
+
+
+  
+
+
+
