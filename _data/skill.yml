@@ -17,7 +17,7 @@
 - layout: left
   name: Frontend
   description: | # this will include new lines to allow paragraphs
-    * react , vue.js , javascript
+    * React , Vue.js , Javascript
     * Npm
 
 
