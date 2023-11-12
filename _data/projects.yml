@@ -26,7 +26,7 @@
   description: | # this will include new lines to allow paragraphs
     * PL 을 맡아 사원 리드하면서 프로젝트 진행
     * 화면,테이블,API 설계 및 개발
-    * Image base64 인코딩 URL Shortener 서비스 구축
+    * Image base64 인코딩 <b>URL Shortener</b> 서비스 구축
     * Tech Stack : Java,SpringBoot,Mybatis,Oracle,jsp,jquery,gitblit
 
 - layout: top-middle
