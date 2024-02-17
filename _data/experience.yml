@@ -13,6 +13,7 @@
     * 배너배리에이션 - 소재 등록 시 다양한 소재 자동 생성 신규 기능 추가
     * 동영상 배너 광고 - ffmpeg를 통한 업로드 된 동영상 압축(인코딩) 신규 기능 추가
     * 대규모 트래픽, 데이터 환경에서의 API 개발
+    * 서버 모니터링 환경 구성 (프로메테우스 + 그라파나)
     * Tech Stack : Java,Springboot,Jpa,Maria,Jenkins,Gitlab
 - layout: left
   company: 주식회사 삼인칭
