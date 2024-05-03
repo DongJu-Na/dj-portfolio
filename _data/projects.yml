@@ -35,7 +35,7 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * 레거시 프로젝트 LG CNS devon -> SpringBoot 마이그레이션
-    * 경기진행관리 프로그램 조회 쿼리 개선 3~5s 단축 
+    * 경기진행관리 프로그램 조회 쿼리 개선 3~5s 단축 (기존 Java에서 연산하던 로직을 프로시저 안에서 계산하면서 바꾸면서 속도를 개선)
     * request,repsonse parameter 인터셉터단에서 로깅
     * Tech Stack : Java,SpringBoot,Mybatis,Oracle,jsp,jquery,gitblit
 
