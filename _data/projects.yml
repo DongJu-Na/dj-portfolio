@@ -1,4 +1,18 @@
 - layout: top-middle
+  name: 모비티브 - 크리에티브 AI 동영상 - 프로젝트
+  link:
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 백엔드 개발자 - 테이블 설계 ,API 개발 ,타 부서 API 인터페이스 및 협업,배치
+    * 프로젝트는 동영상 생성 기술에 대한 전문 지식 부재로 인해 기술적인 어려움과 인프라의 한계로 인해 완수되지 못하였습니다.
+    * 프로젝트가 진행되는 동안 스트레스와 고민에 직면하였으나, 팀원들과의 원활한 의사소통과 협업을 통해 문제를 극복하려 노력하였습니다.
+    * 이 과정중 문제 해결 능력과 책임감을 향상시키는데 큰 도움이 되었습니다.
+    * Tech Stack : Java,SpringBoot,SpringCloud,jpa,queryDSL,thymeleaf,docker,Maria,gitlab
+    * 진행하면서 작성한 블로그 포스팅
+    * [스프링 배치 시작하기 ](https://djlife.tistory.com/31) [모니터링 환경 구성하기 ](https://djlife.tistory.com/32)
+    
+
+- layout: top-middle
   name: 냠냠박스 - POS 프로젝트
   link:
   quote: >
