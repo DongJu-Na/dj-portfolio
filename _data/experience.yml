@@ -15,6 +15,7 @@
     * 대규모 트래픽, 데이터 환경에서의 API 개발
     * 서버 모니터링 환경 구성 (프로메테우스 + 그라파나)
     * Tech Stack : Java,Springboot,Jpa,Maria,Jenkins,Gitlab
+
 - layout: left
   company: 주식회사 삼인칭
   link: http://siccorp.co.kr/
@@ -27,6 +28,7 @@
      * React 냠냠박스 POS 프로젝트 - 프론트엔드 업무(React) , 백엔드(Java) 업무
      * 프론트엔드 리드
      * Tech Stack : Java,Springboot,React,Php,CodeIgniter,Jenkins,Gitlab
+
 - layout: left
   company: 유서브
   link: http://www.userve.co.kr/
@@ -40,6 +42,7 @@
      * 스마트골프 시스템 구축 LG devon -> Spring boot 마이그레이션 및 공통 개발 환경 구성
      * SMS&알림톡 공통 모듈 개발
       * Tech Stack : Java,eGovFramework,Spring boot,Oracle,Mysql,Javascript,jsp,Jenkins
+      
 - layout: left
   company: EITS
   job_title: 웹 개발자
