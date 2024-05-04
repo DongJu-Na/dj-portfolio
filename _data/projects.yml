@@ -18,6 +18,7 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * 프론트엔드 <b>리드</b> - 퍼블리셔,프론트,백엔드 커뮤니케이션 조율
+    * 프로젝트 진행 전 사이드 프로젝트를 진행하여 react를 선행 학습하였습니다.
     * 사내에 프론트엔드 개발자가 채용되지 않아 프론트엔드를 도맡아 프로젝트를 성공적으로 마친 경험이 있습니다.
     * 돈통,영수증 프린터,리더기 장비 인터페이스 , api 지원
     * Tech Stack : Java,SpringBoot,React,Maria,gitlab
